@@ -1,0 +1,566 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Dokan Multivendor (Lite)"
+msgstr ""
+
+#. Short description.
+msgid "The multi-vendor plugin for WooCommerce. Start your own marketplace in minutes!"
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin Dashboard"
+msgstr ""
+
+#. Screenshot description.
+msgid "Withdraw requests from sellers"
+msgstr ""
+
+#. Screenshot description.
+msgid "Settings &rarr; General"
+msgstr ""
+
+#. Screenshot description.
+msgid "Settings &rarr; Selling Options"
+msgstr ""
+
+#. Screenshot description.
+msgid "Settings &rarr; Page Settings"
+msgstr ""
+
+#. Screenshot description.
+msgid "Seller Dashboard in site frontend"
+msgstr ""
+
+#. Screenshot description.
+msgid "Frontend &rarr; Products Listing"
+msgstr ""
+
+#. Screenshot description.
+msgid "Frontend &rarr; Create a new Product"
+msgstr ""
+
+#. Screenshot description.
+msgid "Frontend &rarr; Edit a product"
+msgstr ""
+
+#. Screenshot description.
+msgid "Frontend &rarr; Product &rarr; Options"
+msgstr ""
+
+#. Screenshot description.
+msgid "Frontend &rarr; Product &rarr; Inventory"
+msgstr ""
+
+#. Screenshot description.
+msgid "Frontend &rarr; Orders Listing"
+msgstr ""
+
+#. Screenshot description.
+msgid "Frontend &rarr; Orders &rarr; Details"
+msgstr ""
+
+#. Screenshot description.
+msgid "Frontend &rarr; Submit withdraw request"
+msgstr ""
+
+#. Screenshot description.
+msgid "Frontend &rarr; Store Settings"
+msgstr ""
+
+#. Screenshot description.
+msgid "Frontend &rarr; Individual Seller Store"
+msgstr ""
+
+#. Found in description header.
+msgid "This is a <strong>Lite</strong> version of the <strong>Dokan</strong> plugin."
+msgstr ""
+
+#. Found in description header.
+msgid "Features"
+msgstr ""
+
+#. Found in description header.
+msgid "Additional Pro Features"
+msgstr ""
+
+#. Found in description header.
+msgid "Author"
+msgstr ""
+
+#. Found in description list item.
+msgid "Every seller gets their own store with a unique URL and branding."
+msgstr ""
+
+#. Found in description list item.
+msgid "Show a store banner with contact details"
+msgstr ""
+
+#. Found in description list item.
+msgid "Contact seller and show the store location map. (<strong>Pro feature</strong>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Don't need to visit the WordPress admin area."
+msgstr ""
+
+#. Found in description list item.
+msgid "Sellers can manage their products and orders from your site frontend."
+msgstr ""
+
+#. Found in description list item.
+msgid "As a site owner, get a cut from each sale. That way you and your users both earn money."
+msgstr ""
+
+#. Found in description list item.
+msgid "Take a percentage from each sale. e.g. 20% goes to site owner for every order."
+msgstr ""
+
+#. Found in description list item.
+msgid "Per seller percentage override. Take different cut from different seller. (<strong>Pro feature</strong>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Create and manage your products from the frontend."
+msgstr ""
+
+#. Found in description list item.
+msgid "Create simple and/or variable products. (<strong>Pro Feature</strong>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Sellers have option to manage product shipping, attributes. (<strong>Pro Feature</strong>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Seller can mange downloadable product permission: expiry date and download limit. (<strong>Pro Feature</strong>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Every seller can see his/her own sales report and see a bird eye view on the sales they are making."
+msgstr ""
+
+#. Found in description list item.
+msgid "Order overview and filter by Sale by date, Top sellers, Top earners."
+msgstr ""
+
+#. Found in description list item.
+msgid "Export order reports"
+msgstr ""
+
+#. Found in description list item.
+msgid "Manage and offer discounts for each products."
+msgstr ""
+
+#. Found in description list item.
+msgid "Set expiry and restriction for coupons."
+msgstr ""
+
+#. Found in description list item.
+msgid "You can manage the reviews on your products."
+msgstr ""
+
+#. Found in description list item.
+msgid "Approve/unapprove reviews."
+msgstr ""
+
+#. Found in description list item.
+msgid "See all the reviews for your products left by customers."
+msgstr ""
+
+#. Found in description list item.
+msgid "Admin can view and mange seller list"
+msgstr ""
+
+#. Found in description list item.
+msgid "Admin can view his as well as every seller’s earning reports individually"
+msgstr ""
+
+#. Found in description list item.
+msgid "Dokan Pro has update and support option for customer."
+msgstr ""
+
+#. Found in description list item.
+msgid "Dokan tools option has page installer and Sync table option"
+msgstr ""
+
+#. Found in description list item.
+msgid "Admin can enable/disable the map on the store page."
+msgstr ""
+
+#. Found in description list item.
+msgid "Admin can enable/disable the contact form on the store page"
+msgstr ""
+
+#. Found in description list item.
+msgid "Admin can also enable/disable the store sidebar from theme."
+msgstr ""
+
+#. Found in description list item.
+msgid "Admin can manage new product status"
+msgstr ""
+
+#. Found in description list item.
+msgid "Admin can set the order status for withdraw"
+msgstr ""
+
+#. Found in description list item.
+msgid "Admin can seth threshold withdraw day for the seller"
+msgstr ""
+
+#. Found in description list item.
+msgid "Admin can change the seller store URL"
+msgstr ""
+
+#. Found in description list item.
+msgid "Admin can also enable/disable the permission of review editing for the seller"
+msgstr ""
+
+#. Found in description list item.
+msgid "Best seller widget"
+msgstr ""
+
+#. Found in description list item.
+msgid "Featured seller widget"
+msgstr ""
+
+#. Found in description list item.
+msgid "Store contact widget"
+msgstr ""
+
+#. Found in description list item.
+msgid "Store location widget"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Get the <a href=\"https://wedevs.com/products/plugins/dokan/?utm_source=wporg&amp;utm_medium=cta&amp;utm_campaign=dokan-lite\"><strong>Pro Version</strong></a> which includes bunch of features that were removed from this version."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "A multi-vendor plugin leveraging the power of WooCommerce."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Marketplace with Independent Stores</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Dashboard For Each Seller</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Earn From Each Sale</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Product Management</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Reports (Pro Feature)</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Coupon Management (Pro Feature)</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Manage Product Reviews (Pro Feature)</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "And much more. Checkout the <a href=\"https://wedevs.com/products/plugins/dokan/?utm_source=wporg&amp;utm_medium=footer&amp;utm_campaign=dokan-lite\"><strong>Pro Version</strong></a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Brought to you by <a href=\"http://tareq.wedevs.com\">Tareq Hasan</a> from <a href=\"http://wedevs.com\">weDevs</a>"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[tweak] Email template override system added"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Change dokan SEO admin option section"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Ajaxurl fixed to prevent conflict"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix Arrow (reverted) for pagination"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Hide unapprove comment from store review tab"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Update cart discount meta on suborder create"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix Coupon discount redundancy"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix product gallery image delete issue on tab view"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix translation issue on user migration form"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix Store listing template view for not logged-in user"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] parent sub-order creation on unsuccessful payment by card"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Store page breadcrumb fixed to show Store name and listing link properly"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[tweak] Added terms and condition option field on Registration form"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Remove required for product per page field on store settings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix delete variation product issue on tab view for seller"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix redudant data for guest users"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix responsive issue on front page product listing"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Seller store banner size to cover"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Store template fix for twentytwelve theme"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix responsive style issue for store page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix undefine parent order object issue on creat sub-order"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix seller dashboard product comments count on widget"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[new] Seller balance resync by checking unexpected order button added on tools page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Make some text translatable on contact seller widget"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Optimise sql query to make regenerate process fast"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix WooCommerce deactivate dependency issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix plugin bulk activate issue with dokan welcome page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[new] Welcome page on activation with resync button added"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[tweak] Visual Progress bar added for resync Order progress"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Sub-order duplicate issue fixed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix wp editor compatible to 4.3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Compatible with WordPress 4.3 widget __construct functions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix table name in sync table sql"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix store review rewrite problem, Move store functionality in Dokan_Pro_Store class"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix seller migration template loader"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix same seller multiple product type shipping issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix flat rate shipping issue for multi seller"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[tweak] New hook on store header: dokan_store_before_social"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[tweak] Re-arrange dokan admin settings fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[tweak] Add field on seller store settings to manage store product per page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[tweak] Sellers redirected to dashboard after login"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Feature seller widget display template path"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Best seller widget display seller name changed to store name"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix problem with showing variation data on order details"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Update \"dokan_create_seller_order\" function to save variation order meta on sub-order"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Update \"dokan_post_input_box\" function to add option for making text field and number field required"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix balance separator problem on withdraw"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix total sales balance display on seller dashboard page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Keep value saved of oveerride shipping fields meta even when the option uncheckd"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] English language phrases correction on several place"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[fix] Fix calculation of sub-orders in WooCommerce dashboard status widget sales query"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[new] Pro version rewrite to Free"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Initial version released"
+msgstr ""
+
+#. Found in faq header.
+msgid "Q. Can I add a payment method?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Q. How do withdrawals work?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Q. Does Dokan integrate with BuddyPress?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Q. Is Dokan responsive?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Q. Does it supports variable products?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Q. Can each vendor customize his store?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Q. Does Dokan supports PayPal adaptive payments?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Q. Will it be possible to take a cut or commission from the sales?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Q. Can Dokan be used in a single seller mode?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "A. Just use any standard WooCommerce payment gateway."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "A. Right now, we offer PayPal, Bank and Skrill (pro) withdraw method for \"Dokan\". For PayPal withdraw, you can generate Mass Payment File to payout your sellers at once. Other methods are manual though."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "A. Not for the moment. We have plans to integrate with BuddyPress via an add-on in the near future."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "A. Yes, Dokan is fully responsive. We take mobile first approach and it displays very well in mobile and tablet devices. We are using Twitter Bootstrap as a framework and it just works."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "A. The <strong>Pro</strong> version does! You can seller normal products, downloadable products and variable products with your own attributes."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "A. Right now we have options for only changing the store banner page. We are working on a better customizable seller store page."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "A. Yes it does! We have <a href=\"http://wedevs.com/plugin/dokan/paypal-adaptive-payments/\">an add-on</a> that brings PayPal adaptive payment support."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "A. Yes, that's how Dokan works. In every sales, you can cut a commision from a order. That's configurable from Dokan settings."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "A. Obviously, you can use this on a single seller site to give them a nice front-end experience."
+msgstr ""
